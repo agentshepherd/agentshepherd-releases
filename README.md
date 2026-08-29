@@ -1,6 +1,6 @@
 # Agent Shepherd — Releases
 
-Latest release: v0.2.25 — 2026-08-28T21:35:54Z
+Latest release: v0.2.25 — 2026-08-29T18:04:38Z
 
 Signed release artifacts for the [Agent Shepherd](https://agentshepherd.dev) CLI and MCP server.
 The product source is proprietary; this repository hosts downloadable binaries only.
